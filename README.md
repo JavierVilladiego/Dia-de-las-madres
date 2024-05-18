@@ -48,6 +48,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 ## 📬 Contacto
 Para cualquier consulta o sugerencia, puedes contactarme a través de:
 
-Correo Electrónico: [Mi correo](javiervilladiego7@gmail.com) 
-GitHub:  [Mi Perfil de GitHub](https://github.com/JavierVilladiego) 
-LinkedIn:  [Mi Perfil de LinkedIn](https://www.linkedin.com/in/javiervilladiegoa/) 
+- Correo Electrónico: javiervilladiego7@gmail.com
+- GitHub:  [Mi Perfil de GitHub](https://github.com/JavierVilladiego) 
+- LinkedIn:  [Mi Perfil de LinkedIn](https://www.linkedin.com/in/javiervilladiegoa/) 
