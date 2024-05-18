@@ -21,7 +21,7 @@ Este repositorio incluye un archivo HTML que presenta un hermoso mensaje para ce
 
 ## 🚀 Uso
 
-Para ver el regalo en acción, simplemente clona este repositorio y abre el archivo `index.html` en tu navegador web.
+Para ver el regalo en acción, simplemente clona este repositorio y abre el archivo `madre.html` en tu navegador web.
 
 ```bash
 git clone https://github.com/jvilladiegoa/nombre-del-repositorio.git
