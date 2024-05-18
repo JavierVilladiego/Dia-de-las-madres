@@ -24,6 +24,30 @@ Este repositorio incluye un archivo HTML que presenta un hermoso mensaje para ce
 Para ver el regalo en acción, simplemente clona este repositorio y abre el archivo `madre.html` en tu navegador web.
 
 ```bash
-git clone https://github.com/jvilladiegoa/nombre-del-repositorio.git
-cd nombre-del-repositorio
-open index.html
+git clone https://github.com/JavierVilladiego/Dia-de-las-madres.git
+cd Dia-de-las-madres
+open madre.html 
+```
+
+## 📸 Capturas de Pantalla
+Aquí hay algunas capturas de pantalla del proyecto:
+![image](https://github.com/JavierVilladiego/Dia-de-las-madres/assets/70307016/f64d89fa-54c6-4506-b3fd-b8438059f1eb)
+
+
+
+## 🛣️ Roadmap
+ - Mejorar el diseño responsivo.
+ - Añadir más opciones de personalización.
+ - Incluir soporte para múltiples idiomas.
+ - Implementar una versión interactiva con JavaScript.
+
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## 📬 Contacto
+Para cualquier consulta o sugerencia, puedes contactarme a través de:
+
+Correo Electrónico: tuemail@ejemplo.com
+GitHub: jvilladiegoa
+LinkedIn: Javier David Villadiego Amaya
